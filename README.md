@@ -1,6 +1,6 @@
 # Mortgage Calculator
 
-This is an application that reads the file in the format given below and print out the result for each customer using the formula
+This is an application that reads the file in the format given below and print out the mortgage for each customer using the formula
 
 **Customer,Total loan,Interest,Years**</br>
 Juna,1000,5,2</br>
